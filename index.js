@@ -1,6 +1,0 @@
-prodotti: [];
-prodotti [
-    
-    quantità = 
-
-]

@@ -1,5 +1,9 @@
-let a = 0;
-let b = 6;
-let c1 = 20;
-let b2 = 70;
-console.log(a, b, c1, b2);
+{
+const number = 20;
+const b2 = 70;
+const stringa= "ciao";
+const c = 90;
+console.log(typeof number);
+}
+
+const p = new Promise();
