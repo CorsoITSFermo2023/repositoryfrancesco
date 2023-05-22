@@ -1,0 +1,6 @@
+prodotti: [];
+prodotti [
+    
+    quantità = 
+
+]
